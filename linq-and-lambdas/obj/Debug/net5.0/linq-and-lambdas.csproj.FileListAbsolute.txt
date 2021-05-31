@@ -1,0 +1,15 @@
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/bin/Debug/net5.0/linq-and-lambdas.deps.json
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/bin/Debug/net5.0/linq-and-lambdas.runtimeconfig.json
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/bin/Debug/net5.0/linq-and-lambdas.runtimeconfig.dev.json
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/bin/Debug/net5.0/linq-and-lambdas.dll
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/bin/Debug/net5.0/ref/linq-and-lambdas.dll
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/bin/Debug/net5.0/linq-and-lambdas.pdb
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.csprojAssemblyReference.cache
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.AssemblyInfoInputs.cache
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.AssemblyInfo.cs
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.csproj.CoreCompileInputs.cache
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.dll
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/ref/linq-and-lambdas.dll
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.pdb
+/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/Debug/net5.0/linq-and-lambdas.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/madebygps/.dotnet/store/|arch|/|tfm|",
+      "/Users/madebygps/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/linq-and-lambdas.csproj": {}
+  },
+  "projects": {
+    "/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/linq-and-lambdas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/linq-and-lambdas.csproj",
+        "projectName": "linq-and-lambdas",
+        "projectPath": "/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/linq-and-lambdas.csproj",
+        "packagesPath": "/Users/madebygps/.nuget/packages/",
+        "outputPath": "/Users/madebygps/Developer/learning-dotnet/linq-and-lambdas/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/madebygps/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
